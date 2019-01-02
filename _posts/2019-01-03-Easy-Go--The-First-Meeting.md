@@ -9,7 +9,7 @@ categories: jekyll update
 <h2>First Meeting</h2>
 We set up a team name and we heard Professor Eric explain about the project.
 </p>
-<img src="181231_01.jpg" width="500" alt="EASY_GO_TEAM.jpg">
+<img src="https://raw.githubusercontent.com/leeeeeelee/leeeeeelee.github.io/master/imgs/181231_01.jpg" width="500" alt="EASY_GO_TEAM.jpg">
 
 
 
