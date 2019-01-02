@@ -10,7 +10,7 @@ categories: jekyll update
 We set up a team name and we heard Professor Eric explain about the project.
 </p>
 
-<img src="../181231_01.jpg" width="250" height="250">
+<img src="../181231_01.jpg" width="250" height="250" alt="team_img">
 
 
 
