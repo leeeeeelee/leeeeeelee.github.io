@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Easy Go : Fifth Meeting"
-date:   2019-01-08 16:11:46 +0900
+date:   2019-01-07 16:11:46 +0900
 categories: jekyll update
 
 ---
