@@ -17,7 +17,7 @@ We looked at the drone separately to find the cause of the noise.
 We tried sponging inside the drone but failed to fly.<br>
 The reason is that the balance is not right.
 </p>
-
+ <img src="https://raw.githubusercontent.com/leeeeeelee/leeeeeelee.github.io/master/imgs/190109_03.jpg" width="400" alt="Seventh_meetingc2.jpg">
 
 
 
