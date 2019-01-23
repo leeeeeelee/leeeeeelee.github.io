@@ -15,7 +15,7 @@ Our leader has succeeded in recognizing people with the camera sensors on the ra
 <p>And we measured the noise of the drone.<br>
 The noise was measured 30 inches below the drone.
 </p>
- <img src="https://github.com/leeeeeelee/leeeeeelee.github.io/blob/master/imgs/190117_02.jpg?raw=true" width="500" alt="ninth_meeting1.jpg">
+ <img src="https://raw.githubusercontent.com/leeeeeelee/leeeeeelee.github.io/master/imgs/190117_02.jpg" width="500" alt="ninth_meeting1.jpg">
 
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
