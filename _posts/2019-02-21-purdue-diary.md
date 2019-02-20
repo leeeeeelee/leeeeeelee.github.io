@@ -79,9 +79,3 @@ Go-puff어플을 사용해 간식, 생활용품, 식품 등을 배달시킬 수 
 </h4>
 <b>Co-rec : </b>운동 시설이 매우 잘 되어 있습니다. 수영장, 클라이밍, 농구장 등등 운동 기구들이 정말 많이 있습니다. 오후에는 학생들이 매우 많이 있습니다. 그래서 오전에 운동하러 가는 것을 추천합니다.
 </p>
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]: https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
